@@ -1,2 +1,2 @@
-# Object-Oriented-Programming
+# Exercises
 Exercises for practice.

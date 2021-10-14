@@ -1,0 +1,32 @@
+body {
+    color: rgb(255, 255, 255);
+    background-image: url(https://icdn.dtcn.com/image/digitaltrends_es/iphone-11-vs-iphone-x-feat.jpg);
+}
+
+
+h2 {
+    padding-left: 2%;
+    text-decoration: underline rgb(0, 0, 0);
+}
+
+h3 {
+    padding-left: 2%;
+    opacity: 0.9;
+}
+
+
+#flex-container {
+    justify-content: space-around;
+    display: flex;
+}
+
+.card {
+    background: rgb(240, 240, 240);
+    opacity: 0.6;
+    border-radius: 2%;
+    padding: 2%;
+    margin: 1%;
+    width: 29%;
+    Height: 350px;
+    color: black;
+}
