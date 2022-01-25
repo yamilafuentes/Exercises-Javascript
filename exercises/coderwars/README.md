@@ -1,0 +1,1 @@
+# Logic exercises for practices 
